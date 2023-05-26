@@ -37,7 +37,7 @@ One of my key strengths lies in UI design, where I strive to create aestheticall
 
 Here is a noteworthy project I have worked on:
 
-1. **PLAYLISTIFY**
+1. **PLAYLISTIFY** [Check it out 👀](https://playlistify2.netlify.app/)
    - Description: When you want to learn something, you go on youtube. But searching there is a daunting task because it feels like there are so many videos as you scroll through them all, which one should you watch? And even if you know one or two that are really good, how can you find them automatically?
 So here’s an app that might help you find the most relevant playlist for your needs. The purpose of this website is to give you the most relevant videos for your interests and you can even organise your own favorite playlist of your choice  in a way customized way here as well.
    - Technologies Used: React, Node.js, Express, MongoDb
